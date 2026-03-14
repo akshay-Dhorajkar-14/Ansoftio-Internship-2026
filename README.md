@@ -7,10 +7,7 @@
 **Branch:** MCA
 
 ## Skills
-- Java
-- Advanced Java
 - SQL
-- .NET
 - HTML
 - Python (Basic)
 
